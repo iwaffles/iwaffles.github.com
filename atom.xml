@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Capt'n iWaffles]]></title>
   <link href="http://iwaffles.github.com/atom.xml" rel="self"/>
   <link href="http://iwaffles.github.com/"/>
-  <updated>2013-02-09T16:16:16-08:00</updated>
+  <updated>2013-02-09T16:42:22-08:00</updated>
   <id>http://iwaffles.github.com/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Matt Gardner]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Hello World]]></title>
+    <link href="http://iwaffles.github.com/blog/2013/02/09/hello-world/"/>
+    <updated>2013-02-09T16:36:00-08:00</updated>
+    <id>http://iwaffles.github.com/blog/2013/02/09/hello-world</id>
+    <content type="html"><![CDATA[<h1>This is going to be fun.</h1>
+]]></content>
+  </entry>
   
 </feed>
